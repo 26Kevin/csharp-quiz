@@ -1,0 +1,15 @@
+F:\csharp\csharp-quiz\bin\Debug\net7.0\csharp-quiz.exe
+F:\csharp\csharp-quiz\bin\Debug\net7.0\csharp-quiz.deps.json
+F:\csharp\csharp-quiz\bin\Debug\net7.0\csharp-quiz.runtimeconfig.json
+F:\csharp\csharp-quiz\bin\Debug\net7.0\csharp-quiz.dll
+F:\csharp\csharp-quiz\bin\Debug\net7.0\csharp-quiz.pdb
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.csproj.AssemblyReference.cache
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.AssemblyInfoInputs.cache
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.AssemblyInfo.cs
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.csproj.CoreCompileInputs.cache
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.dll
+F:\csharp\csharp-quiz\obj\Debug\net7.0\refint\csharp-quiz.dll
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.pdb
+F:\csharp\csharp-quiz\obj\Debug\net7.0\csharp-quiz.genruntimeconfig.cache
+F:\csharp\csharp-quiz\obj\Debug\net7.0\ref\csharp-quiz.dll
